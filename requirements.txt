@@ -1,3 +1,4 @@
 biodatagraph>=0.0.4
 py2neo
 neo4j
+graphio>=0.0.14
